@@ -5,7 +5,7 @@ function Header() {
         <header className='header'>
             <nav>
                 <div className="logo">
-                    Todoist
+                    <h1>To Do List</h1>
                 </div>
             </nav>
 
